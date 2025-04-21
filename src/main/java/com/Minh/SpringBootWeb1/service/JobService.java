@@ -1,7 +1,7 @@
-package com.telusko.SpringBootWeb1.service;
+package com.Minh.SpringBootWeb1.service;
 
-import com.telusko.SpringBootWeb1.model.JobPost;
-import com.telusko.SpringBootWeb1.repo.JobRepo;
+import com.Minh.SpringBootWeb1.model.JobPost;
+import com.Minh.SpringBootWeb1.repo.JobRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

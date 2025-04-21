@@ -1,8 +1,7 @@
-package com.telusko.SpringBootWeb1;
+package com.Minh.SpringBootWeb1;
 
-import com.telusko.SpringBootWeb1.model.Users;
-import com.telusko.SpringBootWeb1.repo.UsersRepository;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.Minh.SpringBootWeb1.model.Users;
+import com.Minh.SpringBootWeb1.repo.UsersRepository;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;

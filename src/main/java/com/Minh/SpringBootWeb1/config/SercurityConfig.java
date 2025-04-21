@@ -1,4 +1,4 @@
-package com.telusko.SpringBootWeb1.config;
+package com.Minh.SpringBootWeb1.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

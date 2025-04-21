@@ -1,8 +1,6 @@
-package com.telusko.SpringBootWeb1.model;
+package com.Minh.SpringBootWeb1.model;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
-import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
 
 import java.util.Collection;

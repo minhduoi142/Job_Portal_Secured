@@ -1,8 +1,7 @@
-package com.telusko.SpringBootWeb1.repo;
+package com.Minh.SpringBootWeb1.repo;
 
-import com.telusko.SpringBootWeb1.model.Users;
+import com.Minh.SpringBootWeb1.model.Users;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.security.core.userdetails.User;
 import org.springframework.stereotype.Repository;
 
 @Repository

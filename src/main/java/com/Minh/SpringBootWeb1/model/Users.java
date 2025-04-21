@@ -1,4 +1,4 @@
-package com.telusko.SpringBootWeb1.model;
+package com.Minh.SpringBootWeb1.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

@@ -1,14 +1,13 @@
-    package com.telusko.SpringBootWeb1;
+    package com.Minh.SpringBootWeb1;
 
-    import com.telusko.SpringBootWeb1.model.JobPost;
-    import com.telusko.SpringBootWeb1.service.JobService;
+    import com.Minh.SpringBootWeb1.model.JobPost;
+    import com.Minh.SpringBootWeb1.service.JobService;
     import org.springframework.beans.factory.annotation.Autowired;
     import org.springframework.stereotype.Controller;
     import org.springframework.ui.Model;
     import org.springframework.web.bind.annotation.GetMapping;
     import org.springframework.web.bind.annotation.PostMapping;
     import org.springframework.web.bind.annotation.RequestMapping;
-    import org.springframework.web.bind.annotation.RestController;
 
     import java.util.List;
 
